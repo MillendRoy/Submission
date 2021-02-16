@@ -1,4 +1,4 @@
-# Renewable Energy and Demand Forecasting in an integrated smart grid
+# Renewable Energy and Demand Forecasting in integrated smart grid
 
 1. The files with commit "Solar_Forecasting" includes the code involving  "solar power" and "irradiation" forecasting using normal MediumDecisionTree and RNNS(LSTM) respectively.
 
